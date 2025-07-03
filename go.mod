@@ -1,4 +1,4 @@
-module github.com/tonkeeper/tonapi-go
+module github.com/laontme/tonapi-go
 
 go 1.22.0
 
